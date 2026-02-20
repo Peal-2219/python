@@ -1,0 +1,8 @@
+# Ignore Python compiled files
+*.pyc
+
+# Ignore database files
+*.db
+
+# Ignore __pycache__ folder
+__pycache__/
